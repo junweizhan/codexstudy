@@ -1,3 +1,5 @@
 print('nibuhao@@@')
 print('what can i say')
 print('aweiniubi')
+print('hello python!')
+print('hello java')
